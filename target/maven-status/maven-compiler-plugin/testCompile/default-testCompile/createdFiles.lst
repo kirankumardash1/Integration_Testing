@@ -1,0 +1,5 @@
+TestSuite/Login.class
+Utils/Generics.class
+pages/LoginPage.class
+pages/HomePage.class
+pages/SSOPage.class

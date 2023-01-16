@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Integration_testing(failed)">
+    <classes>
+      <class name="TestSuite.Login">
+        <methods>
+          <include name="aftertest"/>
+          <include name="loginValidation"/>
+          <include name="appLaunch"/>
+        </methods>
+      </class> <!-- TestSuite.Login -->
+    </classes>
+  </test> <!-- Integration_testing(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-16T20:49:09 IST" name="All Test Suite" finished-at="2023-01-16T20:50:40 IST" duration-ms="91011">
+    <groups>
+    </groups>
+    <test started-at="2023-01-16T20:49:09 IST" name="/Users/k0d0866/IdeaProjects/Integration_testing/src/test/java/TestSuite/Login.java" finished-at="2023-01-16T20:50:40 IST" duration-ms="91011">
+      <class name="TestSuite.Login">
+        <test-method signature="appLaunch()[pri:1, instance:TestSuite.Login@7d3a22a9]" started-at="2023-01-16T20:49:09 IST" name="appLaunch" finished-at="2023-01-16T20:50:40 IST" duration-ms="90801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLaunch -->
+        <test-method signature="loginValidation()[pri:2, instance:TestSuite.Login@7d3a22a9]" started-at="2023-01-16T20:50:40 IST" name="loginValidation" finished-at="2023-01-16T20:50:40 IST" duration-ms="100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginValidation -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:TestSuite.Login@7d3a22a9]" started-at="2023-01-16T20:50:40 IST" name="aftertest" finished-at="2023-01-16T20:50:40 IST" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- TestSuite.Login -->
+    </test> <!-- /Users/k0d0866/IdeaProjects/Integration_testing/src/test/java/TestSuite/Login.java -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
